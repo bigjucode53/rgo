@@ -93,7 +93,7 @@ input, select, textarea {
 		}
 
 	body, input, select, textarea {
-		color: #7c8081;
+		color: #464747;
 		font-family: 'Lato', sans-serif;
 		font-size: 15pt;
 		font-weight: 300;
@@ -142,8 +142,11 @@ input, select, textarea {
 		letter-spacing: 0.1em;
 	}
 
+/* a reflechir sur la taille de bold */
+
 	h3 {
 		font-size: 1.8em;
+		font-weight: 400;
 		letter-spacing: 0.025em;
 		color: #9CFF00;
 	
