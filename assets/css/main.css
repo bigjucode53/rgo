@@ -145,8 +145,8 @@ input, select, textarea {
 /* a reflechir sur la taille de bold */
 
 	h3 {
-		font-size: 1.8em;
-		font-weight: 400;
+		font-size: 1.5em;
+		font-weight: bold;
 		letter-spacing: 0.025em;
 		color: #9CFF00;
 	
